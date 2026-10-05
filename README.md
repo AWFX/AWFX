@@ -23,26 +23,3 @@ infrastructure as code, virtual machine templates, k3s, and monitoring.
 
 I like it when routine operations turn into code, and when the state of the
 infrastructure is reproducible and described in git.
-
-## Toolbox
-
-| Area | Tools |
-| :--- | :--- |
-| Distributions and configuration | Linux (Fedora, Debian), Nix |
-| Automation | Ansible, Shell |
-| Virtualization | Vagrant, Proxmox VE |
-| Containers and orchestration | Docker, k3s |
-| Infrastructure as code | Terraform |
-| CI/CD | GitLab CI |
-| Observability | Zabbix |
-| Secrets | SOPS |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nixos,ansible,shell,vagrant,docker,kubernetes,terraform,gitlab,prometheus,nginx,git" alt="stack">
-</p>
-
-## Commits
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AWFX&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="200" alt="commit stats">
-</p>
