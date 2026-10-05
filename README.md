@@ -16,10 +16,22 @@
 
 ---
 
-## About
+## What I work with
 
-I work with Linux infrastructure and its automation: building and maintaining hosts,
-infrastructure as code, virtual machine templates, k3s, and monitoring.
+I spend most of my time on Linux infrastructure and the tooling around it:
+provisioning hosts, infrastructure as code, virtual machine templates, k3s,
+and monitoring.
+
+| Area | Tools |
+| :--- | :--- |
+| Distributions and configuration | Linux (Fedora, Debian), Nix |
+| Automation | Ansible, Shell |
+| Virtualization | Vagrant, Proxmox VE |
+| Containers and orchestration | Docker, k3s |
+| Infrastructure as code | Terraform |
+| CI/CD | GitLab CI |
+| Observability | Zabbix |
+| Secrets | SOPS |
 
 I like it when routine operations turn into code, and when the state of the
 infrastructure is reproducible and described in git.
