@@ -46,7 +46,3 @@ infrastructure is reproducible and described in git.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AWFX&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="200" alt="commit stats">
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AWFX&theme=tokyonight&hide_border=true" alt="commit streak">
-</p>
